@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Game Design Portfolio"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: brainstorm.qmd
+        text: Brainstorm
+      - href: scrum.qmd
+        text: Scrum
+      - href: pitch.qmd
+        text: Pitch
+      
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+
+

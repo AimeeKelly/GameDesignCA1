@@ -1,0 +1,10 @@
+# Scrum - Project Management Plan
+
+Scrum info
+
+## First Sprint
+
+## Burndown Chart
+
+## Trello Scrum Board
+You can find our scrum trello board [here](http://trello.com/b/IhcR1M7k/igd-ca-scrum-board).

@@ -1,0 +1,24 @@
+body {background-color: rgb(245, 222, 195);}
+
+header nav {
+    background-color: rgb(65, 48, 30) !important;
+}
+
+.navbar-title {
+    font-size: 2rem;
+}
+
+span {
+     font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-decoration: underline;
+    margin-top: 0 !important;
+}
+
+
+p {
+    font-size: 20px !important;
+}
