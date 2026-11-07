@@ -4,7 +4,7 @@
     "href": "scrum.html",
     "title": "Scrum - Project Management Plan",
     "section": "",
-    "text": "Scrum info\n\n\n\n\n\n\n\n\nYou can find our scrum trello board here."
+    "text": "You can find our scrum trello board here.\n\n\n\nAfter creating the product backlog for the game, we extracted the most essential features of the minimum viable product version of the game to focus on in the first sprint. These product backlog items were then broken up into smaller, more specific tasks for the sprint backlog. All sprint backlog tasks were also tagged & color coded by team/responsibility (e.g. design, programming, art & audio, UI/UX design, etc.). Additionally, we created user stories from the product backlog items to help organize the team and enhance our understanding of the sprint goals.\nHere is an image of the labels and their colours in the trello board. \n\n\n\nThe burndown chart for the sprint tracks the sprint backlog items, ranked by priority, and the progress to completion based on the estimated time requirement.\nAccess the burdown chart spreadsheet here. The charts can be viewed in seperate pages which you can navigate through at the bottom."
   },
   {
     "objectID": "scrum.html#trello-scrum-board",
@@ -14,18 +14,46 @@
     "text": "You can find our scrum trello board here."
   },
   {
+    "objectID": "scrum.html#first-sprint",
+    "href": "scrum.html#first-sprint",
+    "title": "Scrum - Project Management Plan",
+    "section": "",
+    "text": "After creating the product backlog for the game, we extracted the most essential features of the minimum viable product version of the game to focus on in the first sprint. These product backlog items were then broken up into smaller, more specific tasks for the sprint backlog. All sprint backlog tasks were also tagged & color coded by team/responsibility (e.g. design, programming, art & audio, UI/UX design, etc.). Additionally, we created user stories from the product backlog items to help organize the team and enhance our understanding of the sprint goals.\nHere is an image of the labels and their colours in the trello board."
+  },
+  {
+    "objectID": "scrum.html#burndown-chart",
+    "href": "scrum.html#burndown-chart",
+    "title": "Scrum - Project Management Plan",
+    "section": "",
+    "text": "The burndown chart for the sprint tracks the sprint backlog items, ranked by priority, and the progress to completion based on the estimated time requirement.\nAccess the burdown chart spreadsheet here. The charts can be viewed in seperate pages which you can navigate through at the bottom."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Countsdowntinople",
     "section": "",
-    "text": "Welcome to the ‘Countsdowntinople’ project portfolio."
+    "text": "Welcome to the ‘Countsdowntinople’ project portfolio.\nHere you will find detailed reports on the project."
+  },
+  {
+    "objectID": "index.html#project-overview",
+    "href": "index.html#project-overview",
+    "title": "Countsdowntinople",
+    "section": "Project Overview",
+    "text": "Project Overview\nPlay as an investigative journalist and expose the serial killer behind the assassination of several counts before you yourself are taken out for getting too close to the truth."
+  },
+  {
+    "objectID": "index.html#images-used",
+    "href": "index.html#images-used",
+    "title": "Countsdowntinople",
+    "section": "Images Used",
+    "text": "Images Used\nThese are some images that were drawn by us for the project.\n\n\n\nby Aimee\n\n\n\n\n\nby Aimee\n\n\n\n\n\nby Beckett\n\n\n\n\n\nby Beckett\n\n\n\n\n\nby Beckett\n\n\n\n\n\nby Beckett\n\n\n \n \n\n\n\nby Beckett"
   },
   {
     "objectID": "brainstorm.html",
     "href": "brainstorm.html",
     "title": "Brainstorm",
     "section": "",
-    "text": "We conducted a brainstorming session to come up with and solidify our game.\nIn the meeting we focussed on these important details:\n\nCore Concepts\nUnique Selling Points\nStory and Environment\nPlaces & People in the Game\nGameplay & Rules\nProgression\nGoals\nArtstyle\nName\n\nOur session consisted of two parts:\n1: Come up with as many ideas as possible in each category\n2: Discard any ideas that did not fit with our game concept\nBy doing this, we could throw as many ideas as possible at the board and come back later to see what worked, and what didn’t.\n\n\nYou can find our brainstorming trello board here.\n\n\n\nWe (Aimee Kelly and Beckett Brooks) conducted our brainstorming session on Wednesday, the 30th of September. This session lasted 2 hours (with a break in between) during our 2 hour break from classes in SETU."
+    "text": "We conducted a brainstorming session to come up ideas for our game.\nIn the meeting we focussed on these important details:\n\nCore Concepts\nUnique Selling Points\nStory and Environment\nPlaces & People in the Game\nGameplay & Rules\nProgression\nGoals\nArtstyle\nName\n\nOur session consisted of two parts:\n1: Come up with as many ideas as possible in each category\n2: Discard any ideas that did not fit with our game concept\nBy doing this, we could throw as many ideas as possible at the board and come back later to see what worked and what didn’t.\n\n\nYou can find our brainstorming trello board here.\n\n\n\nWe (Aimee Kelly and Beckett Brooks) conducted our brainstorming session on Wednesday, the 30th of September. This session lasted 2 hours (with a break in between) during our 2 hour break from classes in SETU."
   },
   {
     "objectID": "brainstorm.html#trello-board",
@@ -46,7 +74,7 @@
     "href": "pitch.html",
     "title": "Pitch",
     "section": "",
-    "text": "Pitch info\n\n\nYou can find our pitch presentation slides here."
+    "text": "You can find our pitch presentation slides here.\n\n\n\nHere is the link for the pitch: link"
   },
   {
     "objectID": "pitch.html#pitch-slides",
@@ -54,5 +82,12 @@
     "title": "Pitch",
     "section": "",
     "text": "You can find our pitch presentation slides here."
+  },
+  {
+    "objectID": "pitch.html#pitch-video",
+    "href": "pitch.html#pitch-video",
+    "title": "Pitch",
+    "section": "",
+    "text": "Here is the link for the pitch: link"
   }
 ]

@@ -1,7 +1,7 @@
 
 # Brainstorm
 
-We conducted a brainstorming session to come up with and solidify our game.
+We conducted a brainstorming session to come up ideas for our game.
 
 In the meeting we focussed on these important details:
 
@@ -21,7 +21,7 @@ Our session consisted of two parts:
 
 2: Discard any ideas that did not fit with our game concept
 
-By doing this, we could throw as many ideas as possible at the board and come back later to see what worked, and what didn't.
+By doing this, we could throw as many ideas as possible at the board and come back later to see what worked and what didn't.
 
 
 ## Trello Board

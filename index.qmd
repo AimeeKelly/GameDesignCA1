@@ -7,4 +7,31 @@ title: Countsdowntinople
 
 Welcome to the 'Countsdowntinople' project portfolio.
 
+Here you will find detailed reports on the project.
+
+
+## Project Overview
+Play as an investigative journalist and expose the serial killer behind the assassination of several counts before you yourself are taken out for getting too close to the truth.
+
+## Images Used
+These are some images that were drawn by us for the project.
+
+![by Aimee](images/countsdowntinople.png)
+
+![by Aimee](images/IMG_0667.PNG){width=300}
+
+![by Beckett](images/IMG_0878.PNG){width=300} 
+
+![by Beckett](images/IMG_0879.PNG){width=300}
+
+![by Beckett](images/IMG_0883.PNG){width=600}
+
+![by Beckett](images/dialogue_box_concept6.png)
+
+![by Beckett](images/book-green.png) ![by Beckett](images/book-orange.png) 
+
+![by Beckett](images/book-red.png) ![by Beckett](images/book-yellow.png)
+
+![by Beckett](images/Untitled_Artwork.png)
+
 
